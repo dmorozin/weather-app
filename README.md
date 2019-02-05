@@ -1,3 +1,6 @@
+To start the app, first do `npm install` then `npm start`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
